@@ -7,4 +7,4 @@ push N°2
 
 https
 
-ssh
+ssh N°2
