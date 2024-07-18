@@ -1,6 +1,6 @@
 # test-Jenkins
 final test
 
-https
+ssh
 
 post-testing
